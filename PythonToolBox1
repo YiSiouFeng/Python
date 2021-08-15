@@ -2,7 +2,8 @@
 
 (1) Write a simple function
 -------------------------------------------------------------------------------------
-'''# object1 contains "dataanalysisvisualization", object2 contains 3, object3 contains "111"
+'''python
+# object1 contains "dataanalysisvisualization", object2 contains 3, object3 contains "111"
 # x is a float, y1 is a str, and y2 is a NoneType
 
 # Define the function shout
@@ -15,7 +16,8 @@ def shout():
     print(shout_word)
 
 # Call shout
-shout()'''
+shout()
+'''
 ---------------------------------------------------------------------------------------
 
 (2) Single-parameter functions
